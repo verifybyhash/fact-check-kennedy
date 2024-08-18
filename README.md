@@ -23,24 +23,24 @@ RFK Jr.
     - RFK's own website lists more than five interviews on Fox News alone, surpassing the total he claimed.
 
   
-  - **After the 80s the news centers became profit centers, "and that's where we are today"**
-    - **Determination** - **Likely false**
-    - **Evidence**
-      - [Revenue of newsrooms pew research](https://www.pewresearch.org/journalism/fact-sheet/newspapers/) Graph "Estimated advertising and circulation revenue of the newspaper industry"
-      - [News layoffs](https://www.cjr.org/tow_center/us-news-industry-faces-bleak-start-to-2024.php)
-    - **Explanation for determination**
-      - Data shows that newsroom revenues have sharply declined since at least ~2010 - no indication of similar reduction of costs.
-  
-  - **We're told the enemy is misinformation, but there's always been misinformation**
-    - **Determination** - **Indeterminable**
-    - **Explanation**
-      - There's not one source that backs this up. It's reasonable that the amount of opportunities to spread information as well as the total classes of information have increased(AI-generated misinformation, etc.).
+- **After the 80s the news centers became profit centers, "and that's where we are today"**
+  - **Determination** - **Likely false**
+  - **Evidence**
+    - [Revenue of newsrooms pew research](https://www.pewresearch.org/journalism/fact-sheet/newspapers/) Graph "Estimated advertising and circulation revenue of the newspaper industry"
+    - [News layoffs](https://www.cjr.org/tow_center/us-news-industry-faces-bleak-start-to-2024.php)
+  - **Explanation for determination**
+    - Data shows that newsroom revenues have sharply declined since at least ~2010 - no indication of similar reduction of costs.
 
-  - **The people who are getting censored are the ones telling the truth**
-    - **Determination** - **Indeterminable**
-    - **Explanation**
-      - RFK does not give a strong definition of censorship. He does not back up with examples. It's hard to know what he means or what examples he might be referring to.
-  - The government has been the largetst purveyor of misinformation
+- **We're told the enemy is misinformation, but there's always been misinformation**
+  - **Determination** - **Indeterminable**
+  - **Explanation**
+    - There's not one source that backs this up. It's reasonable that the amount of opportunities to spread information as well as the total classes of information have increased(AI-generated misinformation, etc.).
+
+- **The people who are getting censored are the ones telling the truth**
+  - **Determination** - **Indeterminable**
+  - **Explanation**
+    - RFK does not give a strong definition of censorship. He does not back up with examples. It's hard to know what he means or what examples he might be referring to.
+     
   - A financial system based on blockchain may reduce costs due to lack of middlemen
     - Determination - **Indeterminable**
       - RFK cites the lack of middlemen in the financial system as a cost reduction which would prove that a blockchain based financial system would reduce costs and pass savings onto everyone. However, actual implementation of a blockchain system into an adopted financial system is a completely unknown implementation and may come with unknown-sized costs.
